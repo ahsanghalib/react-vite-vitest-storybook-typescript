@@ -13,7 +13,7 @@ export const AppRoutes: React.FC<Props> = () => {
       </Route>
       <Route element={<ProtectedLayout />}>
         <Route path='/' element={<div>Home</div>} />
-        <Route path='/channels' element={<div>Channels</div>} />
+        <Route path='/other' element={<div>Other Page</div>} />
       </Route>
     </Routes>
   );
