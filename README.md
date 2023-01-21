@@ -12,3 +12,19 @@ Template for Setup of React Project using:
 - Vitest
 - React Testing Library
 - Typescript
+
+## Prerequist
+
+- This project is using [pnpm.io](pnpm.io)
+
+`npm install -g pnpm`
+
+## Scripts
+
+- Run in Dev Mode `pnpm dev`
+- Build `pnpm build`
+- Run Storybook `pnpm start:sb`
+- Build Storybook `pnpm build:sb`
+- Tests `pnpm test`
+- Tests in UI Mode `pnpm test:ui`
+- Tests Coverage `pnpm coverage`
