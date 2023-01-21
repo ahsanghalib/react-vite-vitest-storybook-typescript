@@ -15,9 +15,7 @@ Template for Setup of React Project using:
 
 ## Prerequist
 
-- This project is using [pnpm.io](pnpm.io)
-
-`npm install -g pnpm`
+- This project is using [pnpm.io](pnpm.io) `npm install -g pnpm`
 
 ## Scripts
 
