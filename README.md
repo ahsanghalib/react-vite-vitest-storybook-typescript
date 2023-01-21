@@ -13,11 +13,11 @@ Template for Setup of React Project using:
 - React Testing Library
 - Typescript
 
-## Prerequist
+## pre requisite
 
 - This project is using [pnpm.io](pnpm.io) `npm install -g pnpm`
 
-## Scripts
+## scripts
 
 - Run in Dev Mode `pnpm dev`
 - Build `pnpm build`
