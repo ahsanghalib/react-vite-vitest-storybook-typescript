@@ -1,0 +1,4 @@
+./node_modules
+./stories
+build
+dist

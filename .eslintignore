@@ -1,0 +1,10 @@
+./node_modules
+./stories
+.storybook
+build
+dist
+.vscode
+.github
+.husky
+public
+envs

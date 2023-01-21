@@ -1,0 +1,21 @@
+// Vitest Snapshot v1
+
+exports[`darken 1`] = `
+[
+  "
+  filter: brightness(",
+  "0.8",
+  ");
+",
+]
+`;
+
+exports[`lighten 1`] = `
+[
+  "
+  filter: brightness(",
+  "1.2",
+  ");
+",
+]
+`;
